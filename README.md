@@ -1,6 +1,6 @@
 # photic-phenomena-simulator
 Web-based simulator for halo, glare, and starburst symptoms
-# Photic Phenomena Simulator
+https://eyework-net.github.io/photic-phenomena-simulator/
 
 A browser-based simulator for visualizing and semi-quantifying **photic phenomena** such as **halo**, **glare**, and **starburst** symptoms.
 
