@@ -9,11 +9,7 @@ Designed for ophthalmology clinics, cataract surgery counseling, premium intraoc
 ---
 
 ## Live Demo
-
-👉 Add your GitHub Pages URL here
-
-Example:
-`https://eyework-net.github.io/photic-phenomena-simulator/`
+https://eyework-net.github.io/photic-phenomena-simulator/
 
 ---
 
