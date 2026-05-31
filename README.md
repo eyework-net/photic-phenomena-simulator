@@ -75,13 +75,13 @@ Clinical decisions should not rely solely on this simulator.
 
 If you use this tool in academic presentations, publications, or research, please cite:
 
-> Your Name. Photic Phenomena Simulator. GitHub repository. 2026.
+> Ryota Kabura. Photic Phenomena Simulator. GitHub repository. 2026.
 
 ---
 
 ## License
 
-MIT License
+Ryota Kabura
 
 ---
 
